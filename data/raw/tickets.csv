@@ -1,0 +1,1001 @@
+text,categories
+"My payment was processed twice, and I only ordered once.",['Billing Issue']
+I forgot my password and can't get back into my account.,['Account Access']
+The product I received doesn't match the description on your website.,['Product Inquiry']
+I tried to update my shipping address but it keeps giving me an error.,['Shipping Concern']
+I requested a refund two weeks ago and still haven't heard back.,['Refund Request']
+"Every time I try to log in, it says my credentials are invalid.",['Account Access']
+My order tracking number isn't working on the carrier's website.,['Shipping Concern']
+The latest software update caused my app to crash constantly.,['Technical Problem']
+Can you provide more details about the warranty for this item?,['Product Inquiry']
+The invoice amount doesn't match what I was charged.,['Billing Issue']
+I was charged after I canceled my subscription.,['Billing Issue']
+My package arrived damaged and I'm really disappointed.,['Shipping Concern']
+I keep getting an error message when I try to complete my purchase.,['Technical Problem']
+I'm unable to reset my password because I never receive the email.,['Account Access']
+I would like to know if this model comes in other colors.,['Product Inquiry']
+I canceled my order but it still shipped.,['Shipping Concern']
+Please explain why there is an extra fee on my bill this month.,['Billing Issue']
+The device won't connect to WiFi no matter what I do.,['Technical Problem']
+How do I return an item I purchased last month?,['Refund Request']
+I tried updating my payment method and it won't save.,['Billing Issue']
+My account was locked without any explanation.,['Account Access']
+Could you tell me when this product will be back in stock?,['Product Inquiry']
+I received the wrong item in my shipment.,['Shipping Concern']
+The checkout page freezes whenever I try to submit my order.,['Technical Problem']
+I requested a cancellation but was still billed.,['Billing Issue']
+How long does it take to process a refund?,['Refund Request']
+My login keeps timing out before I can access anything.,['Account Access']
+The instructions for installation are missing.,['Product Inquiry']
+My credit card was charged twice for the same order.,['Billing Issue']
+I tried to update my email but the system says it's invalid.,['Technical Problem']
+The delivery date has passed and I still haven't received my package.,['Shipping Concern']
+I've been waiting over a month for my refund to process.,['Refund Request']
+I'd like more information about this product's features.,['Product Inquiry']
+My subscription renewal charged me the wrong amount.,['Billing Issue']
+The app won't open after the recent update.,['Technical Problem']
+I can't verify my account even though I uploaded my ID.,['Account Access']
+Why did you change the price of the item after I placed my order?,['Billing Issue']
+I ordered express shipping but it arrived late.,['Shipping Concern']
+My account was deactivated without notice.,['Account Access']
+I need help understanding how to use this product.,['Product Inquiry']
+The payment screen keeps showing an unknown error.,['Technical Problem']
+I tried to cancel my subscription but it didn't work.,['Billing Issue']
+I requested a return label and haven't received it.,['Refund Request']
+My package was marked delivered but I never got it.,['Shipping Concern']
+Please explain why I was charged an international fee.,['Billing Issue']
+I can't get past the login screen no matter what I try.,['Account Access']
+The device is defective right out of the box.,['Technical Problem']
+How can I check if my order has shipped?,['Shipping Concern']
+I returned my order but haven't received a confirmation.,['Refund Request']
+Why was my payment declined? My card is fine.,['Billing Issue']
+My account keeps locking me out every few days.,['Account Access']
+"The product page says it's in stock, but checkout says sold out.",['Product Inquiry']
+I received an empty box instead of my order.,['Shipping Concern']
+I can't download the software I purchased.,['Technical Problem']
+I was billed for something I never ordered.,['Billing Issue']
+I have questions about the compatibility of this product.,['Product Inquiry']
+The refund amount doesn't match what I paid.,['Refund Request']
+"Every time I try to pay, it says transaction failed.",['Billing Issue']
+My password reset link expired before I could use it.,['Account Access']
+The shipping estimate keeps changing.,['Shipping Concern']
+The product arrived without any accessories.,['Product Inquiry']
+I'm unable to access premium features I paid for.,['Technical Problem']
+How do I cancel my order before it ships?,['Refund Request']
+The checkout keeps looping back to the cart.,['Technical Problem']
+My account was suspended without explanation.,['Account Access']
+I received the wrong size item.,['Shipping Concern']
+My device won't power on at all.,['Technical Problem']
+I have a question about bulk pricing.,['Product Inquiry']
+I need to update my billing info but the page won't load.,['Billing Issue']
+The tracking shows delivered but there's nothing here.,['Shipping Concern']
+"I was charged and the app won't load, and I can't reset my password.","['Billing Issue', 'Technical Problem', 'Account Access']"
+My package arrived broken and I want a refund.,"['Shipping Concern', 'Refund Request']"
+I can't log in and also need help with my payment info.,"['Account Access', 'Billing Issue']"
+I was billed twice and my order still hasn't shipped.,"['Billing Issue', 'Shipping Concern']"
+The website crashes when I try to check out and pay.,"['Technical Problem', 'Billing Issue']"
+My account was suspended and I need to get my refund processed.,"['Account Access', 'Refund Request']"
+I ordered the wrong item and was still charged after cancellation.,"['Billing Issue', 'Refund Request']"
+The software isn't working and I can't access my account dashboard.,"['Technical Problem', 'Account Access']"
+The payment failed but my card was charged and the order never shipped.,"['Billing Issue', 'Shipping Concern']"
+I have questions about this product and how to set it up.,"['Product Inquiry', 'Technical Problem']"
+I tried updating my shipping address and the site crashed.,"['Shipping Concern', 'Technical Problem']"
+My order was delayed and I want to cancel and get a refund.,"['Shipping Concern', 'Refund Request']"
+I can't reset my password and your app keeps freezing.,"['Account Access', 'Technical Problem']"
+The invoice is wrong and I never got the product.,"['Billing Issue', 'Shipping Concern']"
+I requested a refund but my account is locked.,"['Refund Request', 'Account Access']"
+I was overcharged and the wrong item was delivered.,"['Billing Issue', 'Shipping Concern']"
+I have a billing question and also can't update my shipping address.,"['Billing Issue', 'Shipping Concern']"
+The software update broke my device and I can't log in.,"['Technical Problem', 'Account Access']"
+I can't track my shipment and I was charged extra fees.,"['Shipping Concern', 'Billing Issue']"
+My payment didn't go through but I got charged and now I can't access my account.,"['Billing Issue', 'Account Access']"
+I ordered express shipping but it arrived late and the product is defective.,"['Shipping Concern', 'Technical Problem']"
+The product is missing parts and the instructions are unclear.,"['Product Inquiry', 'Technical Problem']"
+I tried to cancel but was billed anyway and the order shipped.,"['Billing Issue', 'Refund Request', 'Shipping Concern']"
+The checkout page freezes and shows the wrong total amount.,"['Technical Problem', 'Billing Issue']"
+I never received my order and my account says it's delivered.,"['Shipping Concern', 'Account Access']"
+My login keeps failing and I was charged after cancellation.,"['Account Access', 'Billing Issue']"
+I can't download the app and I also have questions about my bill.,"['Technical Problem', 'Billing Issue']"
+I need help with installation and billing questions.,"['Technical Problem', 'Billing Issue']"
+The refund hasn't been processed and I can't log into my account to check.,"['Refund Request', 'Account Access']"
+My account is locked and I can't track my shipment.,"['Account Access', 'Shipping Concern']"
+My credit card was charged but I didn't receive a confirmation email.,['Billing Issue']
+I forgot my username and can't log in to my account.,['Account Access']
+"The product description said it includes accessories, but they were missing.",['Product Inquiry']
+I tried to change my payment method and got an error.,['Billing Issue']
+The tracking link you sent me isn't working.,['Shipping Concern']
+I requested a refund last week but haven't heard anything.,['Refund Request']
+"Every time I open the app, it immediately crashes.",['Technical Problem']
+How do I find out if this product is compatible with my system?,['Product Inquiry']
+I was charged after I already canceled my membership.,['Billing Issue']
+I keep getting logged out every time I try to update my profile.,['Account Access']
+I received the wrong product in my order.,['Shipping Concern']
+The software update deleted all my saved data.,['Technical Problem']
+I need to know when this product will be back in stock.,['Product Inquiry']
+My package arrived late even though I paid for express delivery.,['Shipping Concern']
+I can't reset my password because the link says it's expired.,['Account Access']
+The invoice amount is higher than what was shown at checkout.,['Billing Issue']
+I returned my item but haven't received my refund.,['Refund Request']
+I can't install the app on my device.,['Technical Problem']
+How do I cancel my preorder before it's shipped?,['Refund Request']
+The checkout process keeps freezing when I enter my payment details.,['Technical Problem']
+My account was locked for suspicious activity but I didn't do anything.,['Account Access']
+I have a question about the warranty policy for this product.,['Product Inquiry']
+Why was there an extra charge on my statement?,['Billing Issue']
+"The delivery status says delivered, but I never received anything.",['Shipping Concern']
+My login credentials stopped working suddenly.,['Account Access']
+I was billed twice for one purchase.,['Billing Issue']
+Can you explain what comes in the box with this model?,['Product Inquiry']
+I need a return label but can't find the option on the website.,['Refund Request']
+The device won't sync with my computer.,['Technical Problem']
+My subscription renewed without my authorization.,['Billing Issue']
+I tried updating my address but it keeps reverting to the old one.,['Shipping Concern']
+I can't log in after updating my email address.,['Account Access']
+The instructions in the manual are missing important steps.,['Product Inquiry']
+My order is late and the tracking info hasn't updated.,['Shipping Concern']
+I tried canceling my subscription but it still shows active.,['Billing Issue']
+The app is stuck on the loading screen.,['Technical Problem']
+I have questions about customizing this product.,['Product Inquiry']
+Why was my payment declined even though my card works?,['Billing Issue']
+I need help resetting my password.,['Account Access']
+The product I got is defective and doesn't work.,['Technical Problem']
+How do I change the shipping speed on an existing order?,['Shipping Concern']
+I returned an item but the refund hasn't posted yet.,['Refund Request']
+I can't access my purchase history.,['Account Access']
+The checkout total is higher than expected.,['Billing Issue']
+My package arrived but parts were missing.,['Shipping Concern']
+The app won't update to the latest version.,['Technical Problem']
+I want to cancel my order but can't find the option.,['Refund Request']
+How can I tell if this product will work internationally?,['Product Inquiry']
+I was charged an unexpected fee after purchase.,['Billing Issue']
+My account is suspended and I don't know why.,['Account Access']
+I ordered the wrong item and want to change it.,['Shipping Concern']
+The installation process fails every time.,['Technical Problem']
+I need to update my credit card information.,['Billing Issue']
+I can't track my shipment on your website.,['Shipping Concern']
+The product arrived broken and missing parts.,['Shipping Concern']
+My login attempts keep failing even after resetting my password.,['Account Access']
+The refund I requested is showing the wrong amount.,['Refund Request']
+I can't download the digital product I bought.,['Technical Problem']
+I was charged for a canceled order and the package still shipped.,"['Billing Issue', 'Refund Request', 'Shipping Concern']"
+The software won't install and now my account is locked.,"['Technical Problem', 'Account Access']"
+I tried to reset my password but also have a billing issue to resolve.,"['Account Access', 'Billing Issue']"
+The tracking info is invalid and I was charged extra fees.,"['Shipping Concern', 'Billing Issue']"
+I can't log in and the app keeps crashing.,"['Account Access', 'Technical Problem']"
+My shipment never arrived and I want a full refund.,"['Shipping Concern', 'Refund Request']"
+I was billed twice and my order hasn't shipped yet.,"['Billing Issue', 'Shipping Concern']"
+The website crashes when I try to update payment and address.,"['Technical Problem', 'Billing Issue']"
+My account was suspended and my refund hasn't processed.,"['Account Access', 'Refund Request']"
+I ordered express shipping but the package is delayed and damaged.,"['Shipping Concern', 'Service Complaint']"
+I can't access my premium content and my subscription renewed incorrectly.,"['Account Access', 'Billing Issue']"
+My payment failed but my card was charged anyway.,"['Billing Issue', 'Technical Problem']"
+I returned the product but my account is locked and I can't see refund status.,"['Refund Request', 'Account Access']"
+The checkout won't complete and shows the wrong total.,"['Technical Problem', 'Billing Issue']"
+I never received my order and the tracking number is invalid.,"['Shipping Concern', 'Refund Request']"
+My login isn't working and I was billed after cancellation.,"['Account Access', 'Billing Issue']"
+The software update broke my device and now I can't log in.,"['Technical Problem', 'Account Access']"
+I was charged and the app won't load properly.,"['Billing Issue', 'Technical Problem']"
+I tried to cancel my subscription but it didn't work and now my account is locked.,"['Billing Issue', 'Account Access']"
+The shipping estimate was wrong and the product arrived damaged.,"['Shipping Concern', 'Service Complaint']"
+I can't track my shipment and also need help updating my payment method.,"['Shipping Concern', 'Billing Issue']"
+I need assistance resetting my password and verifying my account.,"['Account Access', 'Technical Problem']"
+The checkout page crashes and shows duplicate charges.,"['Technical Problem', 'Billing Issue']"
+I want to cancel my order but the site isn't working.,"['Refund Request', 'Technical Problem']"
+I ordered the wrong size and was billed twice.,"['Billing Issue', 'Refund Request']"
+My account shows the wrong billing history and I can't log in.,"['Billing Issue', 'Account Access']"
+The product doesn't work and I want to return it.,"['Technical Problem', 'Refund Request']"
+I have questions about the product and the app won't open.,"['Product Inquiry', 'Technical Problem']"
+I can't access my account and I also need a refund.,"['Account Access', 'Refund Request']"
+My package is lost and I was still billed.,"['Shipping Concern', 'Billing Issue']"
+I was charged extra fees and my login won't work.,"['Billing Issue', 'Account Access']"
+The checkout is broken and I can't complete my order.,"['Technical Problem', 'Billing Issue']"
+I want to return the defective product but my account is locked.,"['Refund Request', 'Account Access']"
+I was billed twice and my order hasn't arrived.,"['Billing Issue', 'Shipping Concern']"
+My subscription renewed after cancellation and I can't access my account.,"['Billing Issue', 'Account Access']"
+I need help installing the software and understanding the product features.,"['Technical Problem', 'Product Inquiry']"
+My credit card was charged twice for the same order.,['Billing Issue']
+I can't log into my account even after resetting my password.,['Account Access']
+The app keeps freezing whenever I try to open it.,['Technical Problem']
+I need to return this product but can't find the return option.,['Refund Request']
+Where can I see more details about the product warranty?,['Product Inquiry']
+My shipment is delayed and I need an update.,['Shipping Concern']
+I received a damaged item and want a replacement.,['Service Complaint']
+I was billed for a subscription I didn't sign up for.,['Billing Issue']
+The software won't install on my computer.,['Technical Problem']
+I can't access my purchase history.,['Account Access']
+I paid for express shipping but it came late.,['Shipping Concern']
+My refund hasn't been processed even though you received the return.,['Refund Request']
+The website won't let me update my payment information.,['Billing Issue']
+I can't reset my password because I never get the email.,['Account Access']
+I was charged an incorrect amount on my invoice.,['Billing Issue']
+The tracking link you provided doesn't work.,['Shipping Concern']
+The app update caused all my data to disappear.,['Technical Problem']
+I have questions about what's included in this product package.,['Product Inquiry']
+My order is showing as delivered but I haven't received it.,['Shipping Concern']
+I need a refund for a duplicate charge.,['Refund Request']
+The device won't connect to Wi-Fi.,['Technical Problem']
+I can't log into my account on the mobile app.,['Account Access']
+The checkout page displays the wrong total.,['Billing Issue']
+I got the wrong item in my order.,['Shipping Concern']
+My account was locked due to suspicious activity.,['Account Access']
+How do I cancel my pre-order?,['Refund Request']
+My payment keeps getting declined for no reason.,['Billing Issue']
+The software crashes when I try to open a file.,['Technical Problem']
+The package arrived but was missing accessories.,['Shipping Concern']
+I forgot my username and can't log in.,['Account Access']
+I need help understanding the product specifications.,['Product Inquiry']
+I can't download the files I purchased.,['Technical Problem']
+The billing address is wrong and I can't change it.,['Billing Issue']
+I want to cancel my order but the system won't let me.,['Refund Request']
+My order has been stuck in transit for over a week.,['Shipping Concern']
+I was charged after canceling my subscription.,['Billing Issue']
+My login credentials no longer work.,['Account Access']
+The product description was misleading.,['Product Inquiry']
+I got an error when trying to check out.,['Technical Problem']
+How do I know if this product is compatible with my device?,['Product Inquiry']
+I can't track my shipment anywhere.,['Shipping Concern']
+My refund was issued but the amount is incorrect.,['Refund Request']
+The software won't open after installation.,['Technical Problem']
+I was charged multiple times for a single order.,['Billing Issue']
+The order I received was incomplete.,['Shipping Concern']
+My account is suspended and I need help reactivating it.,['Account Access']
+I received the wrong product entirely.,['Shipping Concern']
+My subscription renewed without any notice.,['Billing Issue']
+The website shows an error when I log in.,['Technical Problem']
+I'm trying to update my shipping address but it doesn't save.,['Shipping Concern']
+I need to return this product because it's defective.,['Refund Request']
+The tracking number says delivered but nothing arrived.,['Shipping Concern']
+I can't access premium features I paid for.,['Account Access']
+My invoice shows a higher price than agreed.,['Billing Issue']
+The app crashes every time I log in.,['Technical Problem']
+I can't cancel my order online.,['Refund Request']
+I was billed for a product I didn't order.,['Billing Issue']
+I can't reset my password or get help logging in.,['Account Access']
+I was billed twice and the app won't load.,"['Billing Issue', 'Technical Problem']"
+I can't track my order and my payment failed.,"['Shipping Concern', 'Billing Issue']"
+I was charged for a subscription I can't access.,"['Billing Issue', 'Account Access']"
+My login doesn't work and my shipment is missing.,"['Account Access', 'Shipping Concern']"
+The checkout keeps failing and I'm being double charged.,"['Technical Problem', 'Billing Issue']"
+My refund is late and I can't reach support.,"['Refund Request', 'Service Complaint']"
+I was charged extra fees and the product didn't arrive.,"['Billing Issue', 'Shipping Concern']"
+I can't access my account and my subscription renewed.,"['Account Access', 'Billing Issue']"
+The product doesn't work and I want my money back.,"['Technical Problem', 'Refund Request']"
+"I can't log in, and your app keeps crashing.","['Account Access', 'Technical Problem']"
+"My order shows delivered but I didn't get it, and I was billed twice.","['Shipping Concern', 'Billing Issue']"
+I can't update payment info and my account is locked.,"['Billing Issue', 'Account Access']"
+I tried to cancel my subscription but was still charged.,"['Billing Issue', 'Refund Request']"
+My device stopped working after the update and I can't log in.,"['Technical Problem', 'Account Access']"
+I ordered the wrong item and now I can't get a refund.,"['Refund Request', 'Product Inquiry']"
+I can't track my shipment and the order is delayed.,"['Shipping Concern', 'Service Complaint']"
+My payment didn't go through and now my account is suspended.,"['Billing Issue', 'Account Access']"
+The checkout shows an error and I can't complete my order.,"['Technical Problem', 'Billing Issue']"
+I was billed incorrectly and the product doesn't work.,"['Billing Issue', 'Technical Problem']"
+I can't cancel my order and the product hasn't shipped.,"['Refund Request', 'Shipping Concern']"
+My account is locked and I need to update my payment method.,"['Account Access', 'Billing Issue']"
+I got the wrong product and it arrived late.,"['Shipping Concern', 'Service Complaint']"
+I can't download my purchase and need a refund.,"['Technical Problem', 'Refund Request']"
+The website crashes when I log in and shows the wrong billing info.,"['Technical Problem', 'Billing Issue']"
+I need help accessing my account and canceling my subscription.,"['Account Access', 'Billing Issue']"
+My payment was declined and I can't place the order.,"['Billing Issue', 'Technical Problem']"
+I was charged extra and the product was damaged.,"['Billing Issue', 'Service Complaint']"
+The product I received isn't what I ordered.,"['Shipping Concern', 'Product Inquiry']"
+I can't access my account after updating my email.,['Account Access']
+My order arrived late and the packaging was broken.,"['Shipping Concern', 'Service Complaint']"
+I tried to reset my password but the link doesn't work.,['Account Access']
+I was billed but never got a confirmation email.,['Billing Issue']
+I can't install the app on my device.,['Technical Problem']
+I have questions about the features of this product.,['Product Inquiry']
+The product was defective and I want a refund.,"['Technical Problem', 'Refund Request']"
+I can't log in to my account and get an error.,"['Account Access', 'Technical Problem']"
+I was charged twice and the package hasn't shipped.,"['Billing Issue', 'Shipping Concern']"
+My account is locked and I can't access support.,['Account Access']
+I want to cancel my order but the website won't load.,"['Refund Request', 'Technical Problem']"
+"I was charged twice for my last order, and I don't know why this happened. Can you please look into this? I would like to get a refund as soon as possible.","['Billing Issue', 'Refund Request']"
+"Every time I try to log in to my account, I get an error message saying my credentials are invalid. I already reset my password twice but nothing works.",['Account Access']
+"My shipment has been stuck in transit for over 10 days. The tracking information hasn't updated, and I need this urgently. Can you confirm where it is?",['Shipping Concern']
+"I purchased your software, but it won't install on my laptop. It keeps failing with an unknown error. Please advise how to fix this issue.",['Technical Problem']
+"I ordered a product but received the wrong item in the box. The invoice shows the correct item, so something went wrong with packing. I'd like to exchange it.","['Shipping Concern', 'Service Complaint']"
+Can you help me understand the differences between your standard and premium plans? I'm not sure which option is better for my needs.,['Product Inquiry']
+"I canceled my subscription last month, but I just noticed that you billed me again today. Why was this charge processed?",['Billing Issue']
+"I've tried to reset my password multiple times, but I never receive the reset email. Is there another way to regain access to my account?",['Account Access']
+My refund still hasn't shown up in my bank account after two weeks. Can you confirm when I will see the credit?,['Refund Request']
+The app crashes every time I open it. It used to work fine until the last update. Is there a workaround or a fix coming soon?,['Technical Problem']
+"I ordered two items, but only one arrived. The packing slip lists both products, so I'm not sure what happened. Please advise.",['Shipping Concern']
+"I can't update my payment method on your website. Every time I try, it gives me a system error. How can I complete my purchase?","['Billing Issue', 'Technical Problem']"
+"I just received my order, but the product is defective. It won't power on at all. I need a replacement or refund.","['Technical Problem', 'Refund Request']"
+Your site charged me for an annual subscription instead of the monthly plan I selected. I'd like this corrected immediately.,['Billing Issue']
+"I'm trying to track my shipment, but the tracking number doesn't seem valid. It shows no results on the carrier's website.",['Shipping Concern']
+"After the most recent update, I can't log in to the app. It just shows a blank screen. Can you help me regain access?","['Technical Problem', 'Account Access']"
+I want to return this product because it's not what I expected. Where can I get a prepaid return label?,['Refund Request']
+I have a question about whether this product is compatible with my existing equipment. The listing doesn't mention this detail.,['Product Inquiry']
+"My account was locked due to suspicious activity, but I didn't receive any notification. How do I get it unlocked?",['Account Access']
+"I received an email confirming my refund, but it's been over a week and nothing has arrived in my account. Can you check this?",['Refund Request']
+The checkout page shows the wrong total amount after I enter my discount code. I think there's a problem with your system.,"['Billing Issue', 'Technical Problem']"
+I was billed for a service I never used. Please explain why this charge appeared on my statement.,['Billing Issue']
+"My package was marked as delivered, but I didn't receive anything. Could you please confirm where it was left?",['Shipping Concern']
+I'm unable to change my shipping address in my account settings. The form just keeps reloading.,"['Shipping Concern', 'Technical Problem']"
+The product arrived damaged. The box was crushed and the item doesn't work now. I need a replacement.,"['Shipping Concern', 'Service Complaint']"
+"I placed an order two weeks ago, but I never got a shipping confirmation. Can you tell me if it has shipped yet?",['Shipping Concern']
+The software shows an error every time I try to activate my license. I've followed all troubleshooting steps but nothing works.,['Technical Problem']
+I'd like to know if your product comes with a warranty. The product page doesn't make it clear.,['Product Inquiry']
+My account was charged even though my order was canceled before shipment. Can you process a refund?,"['Billing Issue', 'Refund Request']"
+I'm unable to access premium features after upgrading my plan. The app still shows me as a free user.,"['Technical Problem', 'Account Access']"
+"Every time I log in, I get redirected to the home page without any error message. I can't access my dashboard.","['Account Access', 'Technical Problem']"
+I received the wrong size of the product I ordered. Can you help me exchange it for the correct one?,"['Shipping Concern', 'Refund Request']"
+I can't download the digital content I purchased. It keeps giving me a timeout error.,['Technical Problem']
+I see an extra charge on my credit card statement labeled as ‘service fee'. What is this for?,['Billing Issue']
+The device I bought doesn't work as advertised. I'm very disappointed and would like to return it.,"['Product Inquiry', 'Refund Request']"
+"I can't remember my username, and the recovery form doesn't recognize my email address. How do I log in?",['Account Access']
+"I ordered expedited shipping, but my order still hasn't arrived after 5 days. This is unacceptable.","['Shipping Concern', 'Service Complaint']"
+"I tried to cancel my subscription online, but it says there's a technical error. Can you cancel it for me?","['Billing Issue', 'Technical Problem']"
+I'd like to know more about your bulk pricing options. Do you have a sales contact?,['Product Inquiry']
+"I was charged twice for the same transaction, and both amounts have posted to my credit card. Please issue a refund.","['Billing Issue', 'Refund Request']"
+My account was disabled without explanation. I rely on this service daily and need urgent assistance.,['Account Access']
+"I received my product today, but the packaging was torn open and parts are missing. What do I do?","['Shipping Concern', 'Service Complaint']"
+The system won't let me update my billing address. It just keeps showing an error.,"['Billing Issue', 'Technical Problem']"
+I have questions about your return policy for products purchased during sales events.,['Product Inquiry']
+The app doesn't recognize my login after I changed my password. I've tried uninstalling but it didn't help.,"['Account Access', 'Technical Problem']"
+"My order is late, and the tracking page hasn't updated for over a week. I'm concerned it's lost.",['Shipping Concern']
+I paid for an annual subscription but only received one month of access. Can you correct this?,"['Billing Issue', 'Account Access']"
+Your website doesn't load on my computer. I've tried multiple browsers without success.,['Technical Problem']
+"The product listing said it included accessories, but nothing was in the box. Can you send what's missing?","['Product Inquiry', 'Shipping Concern']"
+I was billed today but canceled my subscription last week. Why did this happen?,['Billing Issue']
+I keep getting an error message when I try to complete checkout. I need help placing my order.,['Technical Problem']
+"My login keeps timing out, and I can't stay signed in for more than a few seconds.",['Account Access']
+The product I received is a completely different model than what I ordered. This is very frustrating.,"['Shipping Concern', 'Service Complaint']"
+The refund I requested hasn't appeared on my credit card after 10 business days. Please confirm the status.,['Refund Request']
+I'm unable to access the product I purchased. It still says ‘pending' in my account.,"['Technical Problem', 'Account Access']"
+The checkout charged me twice after I refreshed the page. Please refund the duplicate payment.,"['Billing Issue', 'Refund Request']"
+"I placed an order and selected express shipping, but the confirmation email shows standard shipping. Can you fix this?",['Shipping Concern']
+I need to know if your product is compatible with international voltage. There's no info on your site.,['Product Inquiry']
+"I can't log into my account because it says my email doesn't exist, but I used it before.",['Account Access']
+"The product description says it supports my device, but it doesn't fit. How can I return this?","['Product Inquiry', 'Refund Request']"
+I was charged a renewal fee I never agreed to. I'd like this refunded immediately.,"['Billing Issue', 'Refund Request']"
+"My password reset email never arrives, even after multiple attempts. What should I do?",['Account Access']
+The software stopped working after I installed the update. Is there a rollback option?,['Technical Problem']
+"I ordered two products, but only one was delivered and the tracking shows complete. Where's the rest?",['Shipping Concern']
+I can't update my payment method and now my subscription is suspended. This is very inconvenient.,"['Billing Issue', 'Account Access']"
+I was charged for an upgrade that I didn't authorize. Please remove this charge.,['Billing Issue']
+"I'm trying to cancel my order, but your website keeps giving me an error message.","['Refund Request', 'Technical Problem']"
+My product arrived late and was damaged inside the box. I'd like a replacement.,"['Shipping Concern', 'Service Complaint']"
+"I can't log in to my account on the mobile app, but the website works fine.","['Account Access', 'Technical Problem']"
+I need a refund because the product doesn't meet the description. Can you process this quickly?,"['Product Inquiry', 'Refund Request']"
+"Every time I check out, I get a generic error and can't place my order.",['Technical Problem']
+The invoice shows an extra fee I didn't expect. Can you clarify what it's for?,['Billing Issue']
+"My account was suspended without any explanation, and I can't access anything.",['Account Access']
+"I tried to track my shipment, but the carrier says the number doesn't exist. What's going on?",['Shipping Concern']
+The product I ordered doesn't work properly. It freezes after a few minutes.,['Technical Problem']
+I have questions about your return policy before I make a purchase. Where can I find this info?,['Product Inquiry']
+"My order status shows delivered, but there's nothing at my address. Please investigate this.",['Shipping Concern']
+I can't recover my password and the support link doesn't work. Can you help?,['Account Access']
+I've been charged multiple times for the same subscription renewal. This needs to be fixed.,['Billing Issue']
+The device doesn't power on at all. I think it's defective and need a refund.,"['Technical Problem', 'Refund Request']"
+"I want to cancel my subscription, but there's no option in my account settings.","['Billing Issue', 'Refund Request']"
+My order confirmation email has the wrong shipping address. How do I change it before it ships?,['Shipping Concern']
+"I'm trying to upgrade my account, but the payment page keeps failing.","['Billing Issue', 'Technical Problem']"
+My login credentials stopped working after I updated my profile info. Now I'm locked out.,['Account Access']
+The product I ordered was missing parts and arrived two days late. This is not acceptable.,"['Shipping Concern', 'Service Complaint']"
+I can't download the purchased file. The link says ‘expired' even though it's only been a day.,['Technical Problem']
+I see a charge on my card from your company that I don't recognize. Can you explain this?,['Billing Issue']
+I need help understanding the specs of this product before I order it.,['Product Inquiry']
+"I tried to reset my password, but every time I do, it says the link is invalid.",['Account Access']
+The device I bought doesn't function as described. I'm requesting a full refund.,"['Product Inquiry', 'Refund Request']"
+I was billed twice for my subscription last month. Can you please correct this? I would appreciate a refund for the extra charge.,"['Billing Issue', 'Refund Request']"
+My account is locked and I can't log in anymore. I tried resetting the password but didn't get an email.,['Account Access']
+The product I received is missing a few accessories mentioned on your website. What can be done about this?,"['Product Inquiry', 'Shipping Concern']"
+I ordered express shipping but my package still hasn't arrived after 7 days. Please update me on the delivery status.,['Shipping Concern']
+The software crashes every time I try to open it. It worked fine until yesterday after the update.,['Technical Problem']
+I would like to know if this product is compatible with Windows 11. The description doesn't specify.,['Product Inquiry']
+"I canceled my order two days ago, but I was still charged. Please help me with the refund process.","['Billing Issue', 'Refund Request']"
+My password reset link expired before I could use it. How do I get a new one?,['Account Access']
+The website shows an error when I try to update my payment information. Can you assist?,"['Billing Issue', 'Technical Problem']"
+I got a different product than what I ordered. The box had the correct label but the item inside is wrong.,"['Shipping Concern', 'Service Complaint']"
+The app won't let me log in after the last update. It just refreshes the login screen.,"['Technical Problem', 'Account Access']"
+I want to return the item I bought last week. What is your return policy?,['Refund Request']
+The delivery was delayed and the package arrived damaged. I am very disappointed.,"['Shipping Concern', 'Service Complaint']"
+I keep getting charged for a subscription I thought I canceled. Please stop the charges.,['Billing Issue']
+How can I check if my order has shipped? The tracking number isn't working.,['Shipping Concern']
+I can't download the user manual from your website. It says the file is missing.,['Technical Problem']
+My account shows that my subscription is inactive even though I paid yesterday.,"['Billing Issue', 'Account Access']"
+I want to upgrade my plan but the website keeps showing an error at checkout.,"['Billing Issue', 'Technical Problem']"
+"The product description says it includes a charger, but mine didn't come with one.","['Product Inquiry', 'Shipping Concern']"
+I tried to reset my password but never received the email. Can you send it again?,['Account Access']
+There was an extra fee added to my bill that I don't understand. Can you explain?,['Billing Issue']
+My package was marked delivered but I never received it. Please help.,['Shipping Concern']
+The app crashes whenever I try to open my saved projects. I've lost hours of work.,['Technical Problem']
+Is this product compatible with Mac OS? I need to be sure before buying.,['Product Inquiry']
+I accidentally ordered the wrong item. How do I cancel or exchange it?,"['Refund Request', 'Shipping Concern']"
+I was charged for a service I didn't use. Can I get a refund?,"['Billing Issue', 'Refund Request']"
+The site won't accept my credit card information. Is there a workaround?,"['Billing Issue', 'Technical Problem']"
+My login credentials suddenly stopped working. I didn't change anything.,['Account Access']
+I received an incomplete order. One of the items was missing.,['Shipping Concern']
+The product doesn't work as expected. It shuts down after a few minutes.,['Technical Problem']
+I need a refund for the defective product I returned last week.,['Refund Request']
+Can you confirm if this product comes with a warranty? It's not clear on your site.,['Product Inquiry']
+I can't change my shipping address after placing the order. Is it too late?,['Shipping Concern']
+"After upgrading, I lost access to premium features. What happened?","['Account Access', 'Technical Problem']"
+I was billed for the wrong subscription plan. Please correct this.,['Billing Issue']
+The tracking number isn't working on the courier's website. Where is my package?,['Shipping Concern']
+My account got locked without any warning. I need it unlocked as soon as possible.,['Account Access']
+I want to return a product but I can't find the return label. Can you provide it?,['Refund Request']
+I can't download the digital product I purchased. The link is broken.,['Technical Problem']
+I was charged twice for the same order. How can I get a refund?,"['Billing Issue', 'Refund Request']"
+I'm having trouble logging in on the mobile app but the website works fine.,"['Account Access', 'Technical Problem']"
+The product I received was damaged during shipping. What are my options?,"['Shipping Concern', 'Service Complaint']"
+I never received a confirmation email after ordering. Did my order go through?,['Shipping Concern']
+How do I update my payment method? The website keeps giving me an error.,"['Billing Issue', 'Technical Problem']"
+My refund was approved but hasn't appeared in my account yet.,['Refund Request']
+The software update caused my system to freeze. Can I revert to the previous version?,['Technical Problem']
+I want to know if this product supports multiple users or just one.,['Product Inquiry']
+I canceled my subscription but I'm still getting charged every month.,['Billing Issue']
+The delivery arrived later than expected and I wasn't notified about the delay.,"['Shipping Concern', 'Service Complaint']"
+I can't access my account even though I'm sure I'm using the correct password.,['Account Access']
+The checkout page won't load on my browser. Is there an alternative way to order?,['Technical Problem']
+I ordered the wrong color by mistake. Can I exchange it for the correct one?,['Refund Request']
+The website charged me twice after I tried to place my order again.,"['Billing Issue', 'Refund Request']"
+I need help choosing between two of your products. Can you provide more info?,['Product Inquiry']
+My package arrived but one item was missing. Can you send it separately?,['Shipping Concern']
+I'm unable to update my billing address in my account.,"['Billing Issue', 'Technical Problem']"
+The app won't open and crashes on startup every time.,['Technical Problem']
+I lost access to my account after changing my email address. How do I recover it?,['Account Access']
+I want to know the expected delivery date for my recent order.,['Shipping Concern']
+I got charged for a subscription renewal I don't remember authorizing.,['Billing Issue']
+The product I received does not match the description on your website.,"['Product Inquiry', 'Service Complaint']"
+I never received the refund for the order I canceled last month.,['Refund Request']
+I can't log in because my account was disabled without explanation.,['Account Access']
+The payment page keeps timing out and I can't complete my purchase.,"['Billing Issue', 'Technical Problem']"
+I want to return a product but I missed the return window. Is there any way to still return it?,['Refund Request']
+My order was lost in transit according to the tracking info. What do I do?,['Shipping Concern']
+The product I bought has stopped working after two weeks. Can I get a replacement?,"['Technical Problem', 'Refund Request']"
+I'm not sure which plan is best for my needs. Can someone advise me?,['Product Inquiry']
+I was charged an incorrect amount on my invoice.,['Billing Issue']
+The website shows my order as shipped but I haven't received it yet.,['Shipping Concern']
+I can't download the files I paid for. The link keeps showing an error.,['Technical Problem']
+I want to close my account permanently. How do I do this?,['Account Access']
+The product I received has a defect. Can you help me get a refund?,['Refund Request']
+I'm having issues with the subscription renewal process.,['Billing Issue']
+I need to update my credit card but the site won't save my new info.,"['Billing Issue', 'Technical Problem']"
+My account login keeps failing even though my password is correct.,['Account Access']
+The shipping address on my order is incorrect. Can I update it before shipping?,['Shipping Concern']
+My product arrived but it's not working as expected.,['Technical Problem']
+I'd like to know if your product supports integration with other software.,['Product Inquiry']
+I tried to request a refund but the system says I'm not eligible.,['Refund Request']
+The app crashes during checkout every time I try to buy.,['Technical Problem']
+My payment was declined but my bank says the funds are available.,['Billing Issue']
+I want to upgrade my subscription but can't find the option in my account.,"['Billing Issue', 'Account Access']"
+I never received a confirmation for my order. Can you confirm it was placed?,['Shipping Concern']
+The product I ordered was returned to you by the carrier. How do I get it resent?,['Shipping Concern']
+I'm unable to log in after changing my password.,['Account Access']
+The product I received is missing parts and I want to exchange it.,"['Refund Request', 'Shipping Concern']"
+I'd like a refund for a product that didn't meet my expectations.,['Refund Request']
+I'm having trouble adding items to my cart on your website.,['Technical Problem']
+The billing info on my account is outdated and I can't update it.,['Billing Issue']
+My order arrived but was incomplete.,['Shipping Concern']
+I can't access premium features even though I paid for them.,"['Account Access', 'Billing Issue']"
+The download link expired before I could access my purchase.,['Technical Problem']
+I want to know more about your bulk purchase discounts.,['Product Inquiry']
+I was charged for a canceled order. Please refund.,"['Billing Issue', 'Refund Request']"
+I was charged for an order I never placed. Can you please verify this transaction? I'd also like to request a refund immediately.,"['Billing Issue', 'Refund Request']"
+"I received the wrong product in my shipment. It's completely different from what I ordered, and some items are missing.","['Shipping Concern', 'Product Inquiry']"
+I tried logging into my account but it keeps saying my credentials are invalid. I already reset my password twice with no luck.,['Account Access']
+The payment page keeps giving me an error when I try to check out. I've tried multiple cards and browsers but it still fails.,"['Billing Issue', 'Technical Problem']"
+I'm interested in the extended warranty you offer. Could you share more details and pricing for it?,['Product Inquiry']
+"My package arrived damaged, and the box was torn open. I'm worried some items are lost or broken.",['Shipping Concern']
+"I cancelled my subscription last month, but I was still billed again this cycle. Why did this happen?",['Billing Issue']
+I need to change my shipping address before my order is dispatched. How can I update it quickly?,"['Shipping Concern', 'Account Access']"
+Your website isn't loading correctly on my phone. The checkout button doesn't appear anywhere.,['Technical Problem']
+I requested a refund a week ago and haven't received any confirmation. Can you check the status?,['Refund Request']
+I've been locked out of my account after too many login attempts. Is there a way to reset access without waiting 24 hours?,['Account Access']
+I'm unhappy with the quality of the item I received. It doesn't match the description or the photos online.,"['Product Inquiry', 'Service Complaint']"
+"Every time I try to pay, I get a declined message, even though my card works elsewhere. Is there a known issue?","['Billing Issue', 'Technical Problem']"
+I'd like to return this item and get a full refund. What is the process and timeline?,"['Refund Request', 'Product Inquiry']"
+My account information is incorrect and I can't edit my profile details. Can you help me update it?,['Account Access']
+The delivery was delayed twice and now I'm not sure when to expect it. I'd appreciate an update.,['Shipping Concern']
+I'm unable to apply the discount code you emailed me. It says it's invalid or expired.,"['Billing Issue', 'Technical Problem']"
+I've tried calling customer service multiple times but can't reach anyone. This is very frustrating.,['Service Complaint']
+My order shows as delivered but I never received it. Can you investigate this issue urgently?,['Shipping Concern']
+I need assistance with linking my account to my new email address. I don't want to lose my order history.,['Account Access']
+"I placed an order last week, but the tracking number still shows no movement. Could you check where my package is?",['Shipping Concern']
+"I tried to reset my password, but I never received the email. Can you manually reset it for me?",['Account Access']
+"I was charged twice for the same order, and I need one of the charges reversed. This is very urgent.","['Billing Issue', 'Refund Request']"
+The item I received was damaged in transit. I'd like to exchange it or get a refund.,"['Shipping Concern', 'Refund Request']"
+I can't access my account after updating my email address. It keeps saying the credentials are invalid.,['Account Access']
+The payment keeps failing when I try to use my credit card. I tried on different devices but nothing works.,"['Billing Issue', 'Technical Problem']"
+"I ordered the premium subscription, but I still see ads. How can I activate the subscription benefits?",['Technical Problem']
+My order confirmation email never arrived. Can you confirm that my payment went through?,"['Billing Issue', 'Product Inquiry']"
+The discount code you sent me doesn't work. It keeps showing as expired even though today is the last day.,"['Billing Issue', 'Technical Problem']"
+I want to return this item because it's not what I expected. What steps should I follow to process the return?,"['Refund Request', 'Product Inquiry']"
+"I was supposed to receive my delivery three days ago, but nothing has arrived. Can you please check the status?",['Shipping Concern']
+My account was deactivated without any warning. I'd like to understand why and get it reactivated.,"['Account Access', 'Service Complaint']"
+"I keep getting an error message when I try to log in from the app, but the website works fine.","['Technical Problem', 'Account Access']"
+"I cancelled my subscription, but I was billed again this month. Please refund the charge and confirm the cancellation.","['Billing Issue', 'Refund Request']"
+"The item description said it included all accessories, but my order came incomplete. Can you send the missing parts?","['Product Inquiry', 'Shipping Concern']"
+My password reset link expired before I could use it. Could you send me a new one?,['Account Access']
+I'm having trouble updating my payment information on your site. The form keeps giving an error.,"['Billing Issue', 'Technical Problem']"
+I ordered the wrong size by mistake. Is it possible to change it before it ships?,"['Product Inquiry', 'Shipping Concern']"
+My package was delivered to the wrong address. I need help retrieving it.,['Shipping Concern']
+I tried to apply a gift card at checkout but it wouldn't accept the code. Please advise.,"['Billing Issue', 'Technical Problem']"
+The product stopped working after a week. Can I get a replacement or refund?,"['Product Inquiry', 'Refund Request']"
+My account shows an old email address I don't use anymore. How can I update it?,['Account Access']
+The checkout page won't load past the payment step. I've tried several browsers already.,['Technical Problem']
+"I requested a refund two weeks ago, but haven't received confirmation or any payment.",['Refund Request']
+I'm getting duplicate emails about my order. Is there something wrong with my account?,"['Account Access', 'Technical Problem']"
+"The delivery driver marked my package as delivered, but I never received anything. Please help me locate it.",['Shipping Concern']
+"I was charged for express shipping, but my order came late. I'd like a refund for the shipping fee.","['Billing Issue', 'Refund Request', 'Shipping Concern']"
+I can't log in because the two-factor code never arrives. Can you disable it temporarily?,['Account Access']
+I have a question about the warranty coverage for this product. How long does it last?,['Product Inquiry']
+"Every time I try to reset my password, I get an error that says my account doesn't exist.","['Account Access', 'Technical Problem']"
+The subscription I cancelled months ago was reactivated without my permission. Please cancel and refund.,"['Billing Issue', 'Refund Request']"
+I'm unable to track my shipment with the link you provided. It just shows an error page.,"['Shipping Concern', 'Technical Problem']"
+I received a different model than what I ordered. What is the process to get the correct item?,"['Shipping Concern', 'Product Inquiry']"
+I need to change the delivery address urgently before the order is shipped. How can I do this?,['Shipping Concern']
+My invoice has incorrect pricing details. Can you issue a corrected invoice?,['Billing Issue']
+The app crashes whenever I try to access my account settings. Please advise.,['Technical Problem']
+I'd like to return this item and get a refund. Can you provide a return label?,"['Refund Request', 'Product Inquiry']"
+I have been locked out of my account for days despite multiple attempts to reset my password.,['Account Access']
+"My payment was processed twice, and I want the duplicate charge refunded.","['Billing Issue', 'Refund Request']"
+"I received my order, but a part was missing from the box. How can I get the missing item shipped?","['Shipping Concern', 'Product Inquiry']"
+The website keeps showing a 500 error when I try to log in. Can you fix this issue?,"['Technical Problem', 'Account Access']"
+My order status hasn't updated in a week. Is it still on the way?,['Shipping Concern']
+"I tried applying a promotional code but it doesn't work, even though it says valid until tomorrow.","['Billing Issue', 'Technical Problem']"
+I can't access my subscription content even after payment. Can you check why?,"['Technical Problem', 'Account Access']"
+"I was charged extra customs fees on delivery. Is this normal, or can you reimburse me?","['Billing Issue', 'Shipping Concern']"
+My account was suspended without explanation. I'd like to know why and have it reinstated.,"['Account Access', 'Service Complaint']"
+I received the wrong color variant of the product I ordered. How can I get the correct one?,"['Product Inquiry', 'Shipping Concern']"
+The payment confirmation email never arrived. Can you resend it?,['Billing Issue']
+"I requested to cancel my order before shipping, but it was still sent out. I'd like to return it.","['Shipping Concern', 'Refund Request']"
+I have an issue with the invoice showing incorrect billing details. Please correct this.,['Billing Issue']
+My order has been delayed multiple times without any updates. When will it arrive?,['Shipping Concern']
+I forgot my password and the reset process isn't working. How can I access my account?,['Account Access']
+The app logs me out every time I try to complete checkout. Can you help fix this?,['Technical Problem']
+I received only part of my order. When will the remaining items arrive?,['Shipping Concern']
+I'm unable to save my new payment method on your site. It keeps showing an error.,"['Billing Issue', 'Technical Problem']"
+I tried to cancel my subscription but keep getting charged. Please stop the billing and refund me.,"['Billing Issue', 'Refund Request']"
+My order arrived later than promised. I'd like compensation for the delay.,"['Shipping Concern', 'Service Complaint']"
+I can't update my password because the link expired as soon as I received it.,['Account Access']
+I was billed for an annual plan I never signed up for. Please refund and cancel.,"['Billing Issue', 'Refund Request']"
+The checkout page displays an error code every time I try to pay.,['Technical Problem']
+"My package shows delivered, but it's nowhere to be found. Can you start an investigation?",['Shipping Concern']
+I'm trying to change my shipping address but your site isn't saving the new information.,"['Shipping Concern', 'Technical Problem']"
+The product arrived with missing instructions and parts. Can you send replacements?,"['Product Inquiry', 'Shipping Concern']"
+I can't log in because your website says my account is locked. Please unlock it.,['Account Access']
+The payment form keeps declining my card even though there are funds available.,"['Billing Issue', 'Technical Problem']"
+I ordered two items but only received one. Please ship the missing product.,['Shipping Concern']
+My account suddenly logged me out and won't let me back in. Is there a system issue?,"['Account Access', 'Technical Problem']"
+I requested a refund and got no reply. Can you confirm if it's being processed?,['Refund Request']
+The website won't let me apply a voucher I received via email. Please assist.,"['Billing Issue', 'Technical Problem']"
+I want to cancel my order before it ships. How can I confirm the cancellation?,['Shipping Concern']
+I'm having trouble verifying my email. The confirmation link doesn't work.,"['Account Access', 'Technical Problem']"
+I was promised a delivery date but nothing has arrived yet. Can you update me?,['Shipping Concern']
+I can't see my order history in my account. It's completely blank.,"['Account Access', 'Technical Problem']"
+I was charged more than the price listed when I checked out. Can you fix this discrepancy?,['Billing Issue']
+The website doesn't recognize my login even though I just created an account.,"['Account Access', 'Technical Problem']"
+"I ordered an item as a gift, but it arrived with the invoice inside. This ruined the surprise.",['Shipping Concern']
+I'm unable to cancel my subscription through the app. Please cancel it for me.,"['Billing Issue', 'Account Access']"
+"I received an email saying my order shipped, but the tracking link is broken.","['Shipping Concern', 'Technical Problem']"
+My payment was processed but I didn't receive any confirmation or receipt.,['Billing Issue']
+I'm unable to update my address before shipment. It keeps showing a technical error.,"['Shipping Concern', 'Technical Problem']"
+The product is defective and doesn't function as described. I'd like a replacement.,"['Product Inquiry', 'Refund Request']"
+I forgot my password and now I'm locked out. Can you reset it manually?,['Account Access']
+I'm getting duplicate charges for the same subscription renewal. Please correct this.,"['Billing Issue', 'Refund Request']"
+My order is late and I haven't received any communication about it.,['Shipping Concern']
+I tried to sign up but the form won't submit. Is your site down?,['Technical Problem']
+The delivery was left at the wrong address. Can you recover or resend the package?,['Shipping Concern']
+I've tried multiple times to update my billing info but nothing saves.,"['Billing Issue', 'Technical Problem']"
+I cancelled my subscription but still got billed. Please issue a refund.,"['Billing Issue', 'Refund Request']"
+The app crashes every time I try to view my orders. Please look into this issue.,['Technical Problem']
+My package was marked as delivered but isn't here. What should I do?,['Shipping Concern']
+I'm unable to reset my password. The reset page shows an error.,"['Account Access', 'Technical Problem']"
+I was charged twice for one order and need a refund.,"['Billing Issue', 'Refund Request']"
+The product didn't include the promised accessories. Can you ship them?,"['Product Inquiry', 'Shipping Concern']"
+I can't log in after updating my email. Please assist.,['Account Access']
+I tried to pay but keep getting an unknown error code.,"['Billing Issue', 'Technical Problem']"
+My delivery was delayed again. When will it actually arrive?,['Shipping Concern']
+"I placed an order over two weeks ago, and it still hasn't arrived. Can you confirm where it is and when it will be delivered?",['Shipping Concern']
+"I forgot my password, and every time I try to reset it, the link says it's expired. Could you help me access my account?",['Account Access']
+My credit card was charged twice for the same transaction. Please issue a refund for the duplicate payment.,"['Billing Issue', 'Refund Request']"
+I received the wrong product in my shipment. How do I return it and get the correct item sent?,"['Shipping Concern', 'Product Inquiry']"
+The app keeps crashing when I attempt to log in. I've updated to the latest version but still have issues.,"['Technical Problem', 'Account Access']"
+"I tried to cancel my subscription before renewal, but my card was still charged. Can you process a refund?","['Billing Issue', 'Refund Request']"
+My package tracking link shows no updates for several days. Is it lost?,['Shipping Concern']
+The promo code I received via email isn't working during checkout. It says the code is invalid.,"['Billing Issue', 'Technical Problem']"
+"I ordered an item as a gift, but the invoice was included in the box. Is there a way to avoid this in the future?",['Shipping Concern']
+I keep getting an error when I try to update my billing information. Could you update it for me?,"['Billing Issue', 'Technical Problem']"
+I need help resetting my password because the reset email never arrives in my inbox.,['Account Access']
+"My order was marked as delivered, but I never received it. Can you start an investigation?",['Shipping Concern']
+"I tried paying with PayPal, but the transaction keeps failing with no explanation.","['Billing Issue', 'Technical Problem']"
+My account was suspended without any notice. I'd like to understand why and have it reinstated.,"['Account Access', 'Service Complaint']"
+I requested a refund last week and haven't heard back. Can you confirm it's being processed?,['Refund Request']
+I ordered the wrong size by accident. Is it too late to change it before shipping?,"['Product Inquiry', 'Shipping Concern']"
+"Every time I log in, I'm immediately logged back out. Could you look into this issue?","['Account Access', 'Technical Problem']"
+My invoice shows the wrong amount. Can you issue a corrected version?,['Billing Issue']
+The website won't let me complete checkout. It keeps freezing on the payment page.,['Technical Problem']
+I received an incomplete order with some items missing. Can you ship the remaining products?,"['Shipping Concern', 'Product Inquiry']"
+"I'm unable to access my subscription content, even though my payment went through.","['Technical Problem', 'Account Access']"
+The delivery date keeps getting pushed back without explanation. When can I expect my order?,['Shipping Concern']
+I'd like to cancel my order before it ships. Please confirm the cancellation.,['Shipping Concern']
+I can't verify my email because the confirmation link gives an error message.,"['Account Access', 'Technical Problem']"
+I was billed for something I didn't purchase. Can you investigate and refund the charge?,"['Billing Issue', 'Refund Request']"
+The payment form declines my card even though it works on other sites.,"['Billing Issue', 'Technical Problem']"
+I received a defective product that doesn't work as described. How do I return it?,"['Product Inquiry', 'Refund Request']"
+I tried to sign up but the site kept rejecting my registration with no clear error.,['Technical Problem']
+The delivery was left at the wrong address. What are my options to get a replacement?,['Shipping Concern']
+I'm locked out of my account after too many failed login attempts. Can you unlock it?,['Account Access']
+The app logs me out whenever I try to check my order history. Please fix this issue.,['Technical Problem']
+I was charged after canceling my subscription. I want a refund.,"['Billing Issue', 'Refund Request']"
+"I received an email saying my order shipped, but the tracking link doesn't work.","['Shipping Concern', 'Technical Problem']"
+I tried applying a discount code but it shows as expired even though it should still be valid.,"['Billing Issue', 'Technical Problem']"
+I forgot my password and the reset page won't load. Can you help me regain access?,"['Account Access', 'Technical Problem']"
+I'm still waiting for a refund from an order I returned last month. Please confirm when it will be processed.,['Refund Request']
+I can't update my shipping address because the website keeps giving an error.,"['Shipping Concern', 'Technical Problem']"
+"My package was marked as delivered, but there's no sign of it. Can you help locate it?",['Shipping Concern']
+"I ordered a bundle, but only part of it arrived. When will the rest be shipped?",['Shipping Concern']
+I can't log in to my account after updating my email. Please advise.,['Account Access']
+"The payment confirmation email never arrived, but the charge is on my card.",['Billing Issue']
+I'm getting duplicate invoices for the same order. Which one is correct?,['Billing Issue']
+The app crashes every time I open the cart. I've tried reinstalling but it didn't help.,['Technical Problem']
+I want to cancel my subscription immediately and avoid any further charges.,"['Billing Issue', 'Account Access']"
+The product I received is the wrong color. Can you send the correct one?,"['Product Inquiry', 'Shipping Concern']"
+"My account was deactivated, and I don't know why. Please reactivate it.",['Account Access']
+I'm unable to save my payment method. It keeps rejecting valid card details.,"['Billing Issue', 'Technical Problem']"
+I'm seeing a 500 error whenever I try to log in. Is there a system outage?,"['Technical Problem', 'Account Access']"
+My delivery was late by over a week. Will I get compensation for the delay?,['Shipping Concern']
+"I tried to cancel my order, but it still shipped. What do I do now?","['Shipping Concern', 'Refund Request']"
+I can't reset my password because the reset email never comes.,['Account Access']
+The website isn't letting me check out. It keeps saying my cart is empty.,['Technical Problem']
+I requested a refund but only received a partial amount. Why wasn't the full price refunded?,['Refund Request']
+The app won't let me access my subscription content despite an active payment.,['Technical Problem']
+My tracking number hasn't updated in a week. Is the package lost?,['Shipping Concern']
+I'm getting billed twice every month for my subscription. Please correct this.,"['Billing Issue', 'Refund Request']"
+I can't change my password because the page throws an error.,"['Account Access', 'Technical Problem']"
+"I received my order, but it was missing accessories that were advertised.","['Product Inquiry', 'Shipping Concern']"
+I'm unable to cancel my subscription online. Can you do it for me?,"['Billing Issue', 'Account Access']"
+The delivery person left my package outside in the rain. It was damaged.,['Shipping Concern']
+I'm still being charged after canceling my account. Please refund the charges.,"['Billing Issue', 'Refund Request']"
+The product doesn't match the description on your website. I'd like to return it.,"['Product Inquiry', 'Refund Request']"
+I'm locked out of my account and can't reset my password.,['Account Access']
+The checkout page gives an error code every time I try to complete payment.,['Technical Problem']
+I was charged customs fees I wasn't informed about. Can you reimburse me?,"['Billing Issue', 'Shipping Concern']"
+"My order never arrived, and no one has replied to my previous emails.",['Shipping Concern']
+I'm getting multiple order confirmations for one purchase. Is this an error?,"['Billing Issue', 'Technical Problem']"
+"I tried updating my billing info, but it keeps reverting to the old details.","['Billing Issue', 'Technical Problem']"
+I received someone else's order instead of mine. How do I return it?,['Shipping Concern']
+I can't log in because it says my account doesn't exist anymore.,"['Account Access', 'Technical Problem']"
+The app crashes when I try to apply a coupon code.,['Technical Problem']
+I want to cancel my order before it ships out. How can I confirm this?,['Shipping Concern']
+I received a damaged product. Can you send me a replacement?,"['Product Inquiry', 'Shipping Concern']"
+I'm locked out of my subscription and can't reset my password.,['Account Access']
+I was billed for a plan I never signed up for. Please refund me.,"['Billing Issue', 'Refund Request']"
+The payment keeps failing even though my card has sufficient funds.,"['Billing Issue', 'Technical Problem']"
+"My order was split into two shipments, but I only received one. Where is the second?",['Shipping Concern']
+The website won't let me change my shipping address after ordering.,"['Shipping Concern', 'Technical Problem']"
+"I'm getting a login error that says my credentials are invalid, but I'm sure they're correct.","['Account Access', 'Technical Problem']"
+I was charged more than what was displayed at checkout. Please correct this.,['Billing Issue']
+"I ordered the premium plan, but my account shows basic access.","['Technical Problem', 'Account Access']"
+My package was delivered to the wrong apartment. What are my options?,['Shipping Concern']
+"I tried to reset my password, but the system never sends the email.",['Account Access']
+I'm being charged monthly even though I cancelled the subscription.,"['Billing Issue', 'Refund Request']"
+The product I received doesn't function properly. How do I request a refund?,"['Product Inquiry', 'Refund Request']"
+I'm unable to update my email address because the website errors out.,"['Account Access', 'Technical Problem']"
+"The tracking link shows the package delivered, but it's not here.",['Shipping Concern']
+"I tried applying a promo code, but it never worked. Can you add the discount manually?","['Billing Issue', 'Technical Problem']"
+"My account was unexpectedly suspended, and I need it reinstated.","['Account Access', 'Service Complaint']"
+I can't complete payment because the checkout form freezes.,['Technical Problem']
+I've been charged multiple times for the same order. Please issue refunds.,"['Billing Issue', 'Refund Request']"
+The delivery arrived late and was missing items.,"['Shipping Concern', 'Product Inquiry']"
+"I placed an order three weeks ago, and it still hasn't arrived. I've checked the tracking and it's stuck in the same location for over a week. Can you please look into it?",['Shipping Concern']
+"After resetting my password, I can't log into my account anymore. I've tried several times but the system says my credentials are incorrect.",['Account Access']
+I was charged twice for a single purchase. I need one of those charges refunded as soon as possible.,"['Billing Issue', 'Refund Request']"
+The product I received is completely different from what I ordered. I need instructions for returning it and getting the correct one.,"['Product Inquiry', 'Shipping Concern']"
+Your app keeps freezing every time I try to open the settings page. I even tried reinstalling it but the issue persists.,['Technical Problem']
+My subscription renewed without warning and I wasn't expecting the charge. Can I get a refund and stop auto-renewal?,"['Billing Issue', 'Refund Request']"
+I checked out as a guest and now I can't access the order status. Can you help me track my package?,"['Shipping Concern', 'Account Access']"
+"I applied a discount code that was supposed to give 20% off, but it didn't apply. Can you adjust my total?",['Billing Issue']
+I returned a product over a month ago and haven't seen the refund yet. Could you confirm the status?,['Refund Request']
+"I tried logging in with my saved credentials, but now my account says it's locked. Please unlock it.",['Account Access']
+"The delivery arrived, but the packaging was damaged and part of the product is broken. What are the next steps?","['Shipping Concern', 'Product Inquiry']"
+I'm trying to update my credit card info but the site keeps refreshing without saving the changes.,"['Billing Issue', 'Technical Problem']"
+I can't access my profile settings since the last update. It shows a blank screen.,['Technical Problem']
+I accidentally ordered the wrong item. Is there a way to cancel or update my order before it ships?,"['Product Inquiry', 'Shipping Concern']"
+I received an invoice for something I never ordered. Please check and remove the charge.,['Billing Issue']
+The tracking number provided doesn't exist according to the courier's website. Can you provide a correct one?,['Shipping Concern']
+My account shows no orders even though I completed one yesterday. Can you check if the order went through?,"['Account Access', 'Technical Problem']"
+The checkout keeps failing at the payment step. I've tried different cards with no luck.,"['Billing Issue', 'Technical Problem']"
+My package was delivered to the wrong address. I need help getting it back or getting a replacement.,['Shipping Concern']
+"Even after unsubscribing, I keep getting charged. I'd like a refund and confirmation that it's been canceled.","['Billing Issue', 'Refund Request']"
+The product doesn't match the pictures on your website. I want to return it.,"['Product Inquiry', 'Refund Request']"
+I submitted a refund request but received no response. When will it be processed?,['Refund Request']
+I got charged a foreign transaction fee I wasn't warned about. Can you clarify why?,['Billing Issue']
+The tracking shows my package was delivered but I never received anything. Can you launch an investigation?,['Shipping Concern']
+"The promo code I used said it was valid, but I didn't get the discount. What happened?","['Billing Issue', 'Technical Problem']"
+"Every time I try to log in, the site loads forever and then times out. Is there a known issue?","['Technical Problem', 'Account Access']"
+The product I received doesn't power on at all. How do I start a return?,"['Product Inquiry', 'Refund Request']"
+I can't see my past purchases in the account dashboard. It shows as empty.,"['Account Access', 'Technical Problem']"
+"I was charged for expedited shipping, but the order still arrived late. Can I get that fee refunded?","['Shipping Concern', 'Refund Request']"
+I keep getting password reset emails I didn't request. Is my account secure?,['Account Access']
+The site wouldn't let me apply my loyalty points at checkout. Can you apply them retroactively?,['Billing Issue']
+My refund was approved but I never received the money in my bank account. Can you confirm if it was sent?,['Refund Request']
+I placed two orders but only got one confirmation email. Did both go through?,"['Billing Issue', 'Technical Problem']"
+I got a cancellation notice but I never asked to cancel my order. What happened?,"['Shipping Concern', 'Service Complaint']"
+"I created an account but never got a confirmation email, and now I can't log in.",['Account Access']
+The delivery person left my package outside without ringing. It got stolen. What can be done?,['Shipping Concern']
+I tried updating my shipping address but the changes don't save. Please fix this.,"['Technical Problem', 'Shipping Concern']"
+I ordered three items but only two arrived in the box. Where is the third one?,"['Shipping Concern', 'Product Inquiry']"
+My subscription status says inactive even though I paid for this month.,"['Billing Issue', 'Technical Problem']"
+My account was suddenly deactivated. I didn't request this and need access restored.,"['Account Access', 'Service Complaint']"
+The site won't let me enter my apartment number in the shipping address. It keeps removing it.,"['Technical Problem', 'Shipping Concern']"
+I cancelled my subscription last week but still got charged today. I want that refunded.,"['Billing Issue', 'Refund Request']"
+I tried calling support but no one answers. What other way can I get help with my missing order?,"['Shipping Concern', 'Service Complaint']"
+I received an empty package with no product inside. Please investigate immediately.,"['Shipping Concern', 'Product Inquiry']"
+The account page isn't loading on mobile or desktop. Is the site down?,['Technical Problem']
+I accidentally deleted my account. Can you restore it?,['Account Access']
+The size I ordered doesn't fit. How can I exchange it?,"['Product Inquiry', 'Shipping Concern']"
+The checkout page won't load when I select 'PayPal' as the payment method.,"['Billing Issue', 'Technical Problem']"
+My gift card code isn't being accepted. It says 'invalid' but I just got it.,"['Billing Issue', 'Technical Problem']"
+"I submitted a return request and got a confirmation, but no shipping label was sent.","['Refund Request', 'Shipping Concern']"
+I can't unsubscribe from marketing emails. The link just reloads the page.,['Technical Problem']
+"The order confirmation page glitched, and I don't know if my order went through.","['Billing Issue', 'Technical Problem']"
+"The product I got was used, not new. This is unacceptable.","['Product Inquiry', 'Service Complaint']"
+I'm still getting emails for someone else's account. Can you remove my email from their profile?,"['Account Access', 'Service Complaint']"
+My monthly report isn't showing in my dashboard. Please check what's wrong.,['Technical Problem']
+"The app keeps crashing during checkout, making it impossible to place an order.",['Technical Problem']
+My account is tied to an old email I can no longer access. How can I update it?,['Account Access']
+"I tried contacting you via the form on your site, but it throws a 404 error.",['Technical Problem']
+The product's manual is missing from the box. Where can I find it?,['Product Inquiry']
+"The wrong currency was used at checkout, and I was charged more than expected.",['Billing Issue']
+"My replacement item never arrived, and I was told it had already shipped.",['Shipping Concern']
+I can't view or change my subscription plan from the dashboard.,"['Account Access', 'Technical Problem']"
+I was charged shipping even though the item was supposed to be eligible for free delivery.,"['Billing Issue', 'Shipping Concern']"
+The app won't accept any login credentials after the latest update.,"['Technical Problem', 'Account Access']"
+My order history is gone from my account. Can you restore it?,"['Account Access', 'Technical Problem']"
+The refund I received is less than what I paid. Why wasn't it the full amount?,['Refund Request']
+I need help choosing between two similar products. Can someone explain the differences?,['Product Inquiry']
+I'm not getting notifications even though I enabled them. Please fix this.,['Technical Problem']
+I created a new account by mistake. Can you merge it with my original one?,['Account Access']
+I was overcharged for the same product compared to last month. Can you explain why?,['Billing Issue']
+I can't find the download link for the software I purchased. Where is it?,"['Product Inquiry', 'Technical Problem']"
+The customer support chat keeps disconnecting. How else can I reach you?,['Service Complaint']
+"My device isn't compatible with the product I bought, even though the site said it would be. Can I return it?","['Product Inquiry', 'Refund Request']"
+I've followed all steps for cancellation but still see charges on my account.,"['Billing Issue', 'Refund Request']"
+"I got a notification that my order was delivered, but there's nothing at my door.",['Shipping Concern']
+I received a damaged charger with my new phone. Can you send a replacement?,"['Product Inquiry', 'Shipping Concern']"
+The mobile app forces me to log in every time I open it. It used to keep me signed in.,['Technical Problem']
+I made an order with express shipping but it's taking longer than regular delivery. What's going on?,['Shipping Concern']
+I just subscribed but can't access any premium content. Please fix it.,"['Account Access', 'Technical Problem']"
+The billing address keeps defaulting to my old address. I've updated it several times.,"['Billing Issue', 'Technical Problem']"
+"Your product listing says it includes a carrying case, but mine didn't come with one.",['Product Inquiry']
+I've contacted support multiple times and haven't received any reply. This is disappointing.,['Service Complaint']
+I can't submit a return request because the order doesn't appear in my account.,"['Refund Request', 'Technical Problem']"
+I received a product with someone else's name on the packaging. What's going on?,['Shipping Concern']
+I got charged for an annual plan but I only meant to select the monthly one.,"['Billing Issue', 'Refund Request']"
+I need to update my email address but the site won't accept my new one.,"['Account Access', 'Technical Problem']"
+I was expecting a paper invoice in the package but didn't receive one. Can you send it via email?,['Billing Issue']
+I'm still waiting on confirmation that my return was received. When will I get my money back?,['Refund Request']
+The login keeps timing out before I can enter my credentials.,"['Account Access', 'Technical Problem']"
+I received the wrong item and it's a completely different brand than what I ordered.,"['Product Inquiry', 'Shipping Concern']"
+"Your site won't load at all in my browser, even after clearing cookies.",['Technical Problem']
+I ordered two items but only received one in the box. Can you send the missing product?,['Shipping Concern']
+I've tried resetting my password several times and still can't log in. Please help me access my account.,['Account Access']
+"The tracking information says my order was delivered, but I never received it. Can you check with the courier?",['Shipping Concern']
+I was charged twice for my subscription renewal. I need the duplicate charge refunded immediately.,"['Billing Issue', 'Refund Request']"
+I'm unable to update my payment information on the website because the page keeps freezing.,"['Billing Issue', 'Technical Problem']"
+The product I received was defective and won't turn on. I'd like to request a replacement.,['Product Inquiry']
+My order arrived late even though I paid for expedited shipping. Can I get a refund of the extra fee?,"['Shipping Concern', 'Refund Request']"
+The discount code I used didn't apply to my order even though it was valid. Can you adjust the total?,['Billing Issue']
+I returned an item over two weeks ago but haven't received confirmation or a refund.,['Refund Request']
+The app crashes every time I try to check my order history. Is there an update coming soon?,['Technical Problem']
+I accidentally subscribed to the annual plan instead of the monthly plan. Please switch it and refund the difference.,"['Billing Issue', 'Refund Request']"
+I can't access premium features despite having an active subscription. Can you fix this?,"['Account Access', 'Technical Problem']"
+"My package arrived with damaged packaging, and the product inside is scratched. What should I do?","['Shipping Concern', 'Product Inquiry']"
+I want to cancel my order before it ships but can't find the option in my account.,"['Shipping Concern', 'Technical Problem']"
+"I received an email saying my order was canceled, but I didn't cancel it. Please explain.",['Service Complaint']
+I'm trying to redeem a gift card but the site says the code is invalid.,"['Billing Issue', 'Technical Problem']"
+The billing address in my account keeps reverting to an old address no matter how often I update it.,"['Billing Issue', 'Technical Problem']"
+I need help changing the email address associated with my account.,['Account Access']
+My loyalty points are missing after the last update. Can you restore them?,"['Billing Issue', 'Technical Problem']"
+I can't download the digital product I purchased. The link just gives me an error.,"['Product Inquiry', 'Technical Problem']"
+The delivery person left my package in the rain and now it's ruined. What can be done?,['Shipping Concern']
+My subscription auto-renewed without my consent. Please cancel and refund the charge.,"['Billing Issue', 'Refund Request']"
+The item I ordered doesn't match the description on the website. I want to return it.,"['Product Inquiry', 'Refund Request']"
+My order has been pending shipment for over a week. When will it ship?,['Shipping Concern']
+I got an email that my account was deactivated. I didn't request this and need access back.,['Account Access']
+I can't save any changes to my profile settings. The page refreshes without saving.,['Technical Problem']
+The replacement item you sent is also defective. I'd like a refund instead.,"['Product Inquiry', 'Refund Request']"
+I'm unable to unsubscribe from marketing emails. The link in the email doesn't work.,['Technical Problem']
+The tracking number you provided doesn't exist on the courier's site. Can you verify it?,['Shipping Concern']
+"I tried applying a promotional code but got an error message that it expired, even though it should still be valid.",['Billing Issue']
+I created an account but never received a confirmation email. Now I can't log in.,['Account Access']
+I was charged for a product I never received. Please issue a refund.,"['Billing Issue', 'Refund Request']"
+"I need to change my shipping address before my order ships, but the system won't let me edit it.","['Shipping Concern', 'Technical Problem']"
+The mobile app crashes every time I open the order details page.,['Technical Problem']
+I want to merge two accounts I accidentally created with different emails.,['Account Access']
+"My return request was approved, but I haven't received a shipping label.","['Refund Request', 'Shipping Concern']"
+"I paid for express delivery, but my package arrived much later than promised.","['Shipping Concern', 'Refund Request']"
+The item I received is missing parts that were supposed to be included.,['Product Inquiry']
+I keep getting password reset emails I didn't request. Is my account compromised?,['Account Access']
+My subscription says it's inactive even though my payment went through.,"['Billing Issue', 'Technical Problem']"
+The checkout page fails to load after I enter my payment information.,"['Billing Issue', 'Technical Problem']"
+I received a product in the wrong size even though I ordered the correct one.,['Product Inquiry']
+I canceled my order but still got charged. Please refund the payment.,"['Billing Issue', 'Refund Request']"
+The customer support chat keeps disconnecting before I can get help.,['Service Complaint']
+I received the wrong product entirely and need to return it.,"['Product Inquiry', 'Shipping Concern']"
+I want to upgrade my subscription plan but can't find the option anywhere.,['Account Access']
+I've contacted support multiple times and haven't received a response.,['Service Complaint']
+My account shows no order history even though I've placed several orders.,"['Account Access', 'Technical Problem']"
+The delivery tracking hasn't updated in over 10 days. Can you check the status?,['Shipping Concern']
+I was charged an international transaction fee without any prior notice.,['Billing Issue']
+"The product listing said batteries were included, but none came in the box.",['Product Inquiry']
+The website logs me out randomly while I'm browsing.,['Technical Problem']
+"I need to return a gift, but I don't have the original order number. Can you help?",['Refund Request']
+The app won't let me sign in after the latest update.,"['Technical Problem', 'Account Access']"
+"My order arrived damaged, and I want to request a replacement.","['Shipping Concern', 'Product Inquiry']"
+I canceled my subscription but still have access to paid features. Is it really canceled?,['Account Access']
+"I tried to use a coupon code during checkout, but the site crashed.","['Billing Issue', 'Technical Problem']"
+The download link for my purchase expired before I could use it. Please resend it.,['Product Inquiry']
+"My order was supposed to arrive last week, but there's no update from the courier.",['Shipping Concern']
+The site won't accept my valid credit card and keeps declining the payment.,['Billing Issue']
+I received a product with another customer's invoice in the box.,['Shipping Concern']
+I want to change the phone number on my account but get an error every time I try.,"['Account Access', 'Technical Problem']"
+The replacement item you sent me is also defective. I just want a refund now.,"['Product Inquiry', 'Refund Request']"
+I'm being charged monthly even though I canceled my subscription months ago.,"['Billing Issue', 'Refund Request']"
+The order confirmation page glitched and I don't know if my payment went through.,"['Billing Issue', 'Technical Problem']"
+"I received a product in the wrong color. I ordered blue, but got red.",['Product Inquiry']
+The delivery driver marked my package as delivered but it's nowhere to be found.,['Shipping Concern']
+The checkout process fails every time I try to complete my order.,"['Billing Issue', 'Technical Problem']"
+"I'm trying to close my account, but the site keeps giving me an error.","['Account Access', 'Technical Problem']"
+I ordered a digital product but never received a download link.,['Product Inquiry']
+My subscription renewal date was moved up without warning and I was charged early.,['Billing Issue']
+I tried to apply store credit but the balance didn't deduct from my order total.,"['Billing Issue', 'Technical Problem']"
+The mobile app is stuck on the loading screen every time I open it.,['Technical Problem']
+I accidentally entered the wrong shipping address and can't update it anymore.,"['Shipping Concern', 'Technical Problem']"
+My product arrived with missing accessories. How do I get them replaced?,['Product Inquiry']
+The site won't let me save my updated billing information.,"['Billing Issue', 'Technical Problem']"
+The order was canceled without any explanation. I'd like to know why.,['Service Complaint']
+I received an item that was clearly used. I ordered a new one.,['Product Inquiry']
+My account was deactivated without any warning. Please restore access.,['Account Access']
+The checkout page loads blank when I try to pay via PayPal.,"['Billing Issue', 'Technical Problem']"
+I've been charged for a subscription I never signed up for.,"['Billing Issue', 'Refund Request']"
+"My refund was approved over a month ago, but I still haven't received the funds.",['Refund Request']
+The product I ordered doesn't fit the description and feels very low quality. I'd like to return it.,"['Product Inquiry', 'Refund Request']"
+I'm unable to verify my email address because the confirmation link expired.,['Account Access']
+I updated my shipping address but my order still shipped to the old address.,['Shipping Concern']
+I keep getting logged out every time I try to view my subscriptions.,"['Technical Problem', 'Account Access']"
+The payment page crashes when I select my preferred shipping method.,"['Billing Issue', 'Technical Problem']"
+I received someone else's order in my shipment. What should I do?,['Shipping Concern']
+I want to pause my subscription for a few months but can't find that option.,['Account Access']
+The coupon code I received by email doesn't work on the checkout page.,['Billing Issue']
+"I returned my order and have proof of delivery, but no refund has been issued.",['Refund Request']
+The tracking number shows delivered but I never received the package.,['Shipping Concern']
+The app shows my subscription as expired even though I was just charged.,"['Billing Issue', 'Technical Problem']"
+I can't find the invoice for my order in my account or email.,['Billing Issue']
+I received a defective charger with my device. Can you send a replacement?,['Product Inquiry']
+My order was supposed to arrive last Friday but it still hasn't shipped.,['Shipping Concern']
+I forgot my password and the reset emails aren't coming through.,['Account Access']
+The checkout button doesn't work on the mobile site.,['Technical Problem']
+I was charged shipping fees even though my order qualified for free shipping.,"['Billing Issue', 'Refund Request']"
+I can't update my billing address. It keeps reverting to the old one.,"['Billing Issue', 'Technical Problem']"
+The product came without the promised user manual and accessories.,['Product Inquiry']
+My subscription was renewed early without notification. I want a refund.,"['Billing Issue', 'Refund Request']"
+I tried to cancel my order before it shipped but it still went out.,['Shipping Concern']
+My loyalty points disappeared after the recent site update.,"['Billing Issue', 'Technical Problem']"
+The payment failed but my credit card was still charged.,"['Billing Issue', 'Refund Request']"
+"I received an email that my order was canceled due to stock issues, but it still shows as pending.","['Service Complaint', 'Technical Problem']"
+I'm locked out of my account because of too many failed login attempts.,['Account Access']
+"The product arrived damaged, and the box was torn open.","['Shipping Concern', 'Product Inquiry']"
+I tried contacting support multiple times but haven't heard back.,['Service Complaint']
+My subscription shows as active but I can't access premium content.,"['Technical Problem', 'Account Access']"
+The website won't accept my payment method even though it works elsewhere.,['Billing Issue']
+I can't download my e-book purchase. The link is broken.,"['Product Inquiry', 'Technical Problem']"
+I need help merging two accounts with different email addresses.,['Account Access']
+I tried updating my phone number but get an error message every time.,"['Account Access', 'Technical Problem']"
+The order confirmation email never arrived and now I can't track my purchase.,['Shipping Concern']
+The delivery date was changed multiple times and the package is still late.,['Shipping Concern']
+I accidentally bought the wrong product and want to exchange it.,"['Product Inquiry', 'Refund Request']"
+My payment went through twice for the same order. Please refund the duplicate.,"['Billing Issue', 'Refund Request']"
+The product listing was misleading and didn't mention required accessories.,['Product Inquiry']
+I'm trying to cancel my subscription but the system won't process the request.,"['Account Access', 'Technical Problem']"
+The download link expired before I could use it. Can you resend it?,['Product Inquiry']
+My account was flagged for suspicious activity but I haven't done anything unusual.,['Account Access']
+I can't update my shipping address after placing the order.,['Shipping Concern']
+The checkout page is stuck loading indefinitely when I click pay.,"['Billing Issue', 'Technical Problem']"
+I returned the item but the refund was processed to the wrong account.,"['Billing Issue', 'Refund Request']"
+The replacement item arrived damaged as well. I'd prefer a refund.,"['Product Inquiry', 'Refund Request']"
+I want to know why my subscription price increased without any notice.,['Billing Issue']
+The app keeps logging me out every few minutes.,"['Technical Problem', 'Account Access']"
+I tried applying a promo code but it said invalid even though it's valid until next month.,['Billing Issue']
+My package was left in an unsecured location and is now missing.,['Shipping Concern']
+I requested a cancellation but the order was still shipped to me.,['Shipping Concern']
+I can't access the invoice for my recent order.,['Billing Issue']
+I ordered a gift but the receipt included the price. How can this be prevented in the future?,"['Shipping Concern', 'Service Complaint']"
+My account was suspended without any explanation. Please reactivate it.,['Account Access']
+The download page shows an error when I try to retrieve my purchase.,"['Technical Problem', 'Product Inquiry']"
+I was charged after canceling my subscription. Please reverse the charge.,"['Billing Issue', 'Refund Request']"
+The support chatbot isn't helpful and keeps looping the same responses.,['Service Complaint']
+The payment page says my billing address doesn't match even though it's correct.,['Billing Issue']
+The item description didn't mention that assembly is required.,['Product Inquiry']
+I received the wrong color for the item I ordered.,['Product Inquiry']
+The website logs me out every time I try to check my order status.,['Technical Problem']
+I can't reset my password because the verification code never arrives.,['Account Access']
+I'd like to cancel my subscription but the option is missing in my account.,"['Account Access', 'Technical Problem']"
+I was charged a foreign transaction fee without any prior notice.,['Billing Issue']
+The product didn't include all the advertised features.,['Product Inquiry']
+I was billed twice for the same month's subscription.,"['Billing Issue', 'Refund Request']"
+The shipping estimate kept changing and now it's two weeks late.,['Shipping Concern']
+I can't download the software I purchased. It says ‘file not found'.,"['Technical Problem', 'Product Inquiry']"
+I returned my order but haven't received a refund or confirmation.,['Refund Request']
+The delivery driver left my package outside and it was stolen.,['Shipping Concern']
+I can't log in even after resetting my password.,['Account Access']
+I paid for expedited shipping but the order still arrived late.,"['Shipping Concern', 'Refund Request']"
+I'm being billed after canceling my subscription last month.,"['Billing Issue', 'Refund Request']"
+The app doesn't show any of my recent orders.,"['Technical Problem', 'Account Access']"
+I need help transferring my subscription to a new email address.,['Account Access']
+The checkout page gives an error every time I try to place an order.,"['Billing Issue', 'Technical Problem']"
+My package was damaged during delivery and the product is broken.,"['Shipping Concern', 'Product Inquiry']"
+I received a used product instead of a new one.,['Product Inquiry']
+The website won't accept my credit card payment.,['Billing Issue']
+My subscription was canceled without my request.,['Account Access']
+I can't access the download link for my digital purchase.,"['Product Inquiry', 'Technical Problem']"
+The product I received doesn't match the images on the site.,['Product Inquiry']
+My account was deactivated for no reason and I need it restored.,['Account Access']
+The checkout keeps freezing when I try to pay.,['Technical Problem']
+I was charged multiple times for the same purchase.,"['Billing Issue', 'Refund Request']"
+I received the wrong size for my order.,['Product Inquiry']
+"I tried to apply a coupon code, but the discount didn't show up during checkout and my card was charged the full price. Can you help me fix this?",['Billing Issue']
+"I received an email saying my package was delivered yesterday, but I never got it. I'm worried it was left in the wrong place.",['Shipping Concern']
+"The product description says it's compatible with Android, but it's not working with my phone. Is there a specific app I need to install?","['Technical Problem','Product Inquiry']"
+I need to change my billing address before my next subscription renewal. How do I update it in my account settings?,"['Billing Issue','Account Access']"
+"Whenever I log in, the website logs me out after a few minutes even if I'm still active. It's very frustrating.","['Account Access','Technical Problem']"
+"I returned an item over two weeks ago, but I haven't received my refund yet. Could you please check the status?",['Refund Request']
+I want to know if this product comes with a warranty and what it covers before I place my order.,['Product Inquiry']
+"I was overcharged this month, and my invoice shows duplicate fees. Can you correct this and issue a refund?","['Billing Issue','Refund Request']"
+"I ordered express shipping, but my package still hasn't arrived after a week. This delay is unacceptable.","['Shipping Concern','Service Complaint']"
+"Every time I try to reset my password, the reset link says it's expired. I've tried multiple times without success.",['Account Access']
+My credit card was charged twice for the same order. I need this resolved immediately.,['Billing Issue']
+The tracking information hasn't updated in 5 days. Can you tell me where my package is?,['Shipping Concern']
+The app crashes every time I open it on my tablet. Is there a fix or update available?,['Technical Problem']
+"I want to return this product, but the return option isn't showing in my account. How can I start the process?","['Account Access','Refund Request']"
+"I paid for premium support, but no one has responded to my inquiry in over 48 hours. This is very disappointing.",['Service Complaint']
+"I tried to update my payment method, but the system kept giving me an error. Now my subscription is suspended.","['Account Access','Billing Issue']"
+I received the wrong item in my shipment. What should I do to get the correct product?,"['Shipping Concern','Service Complaint']"
+Can you explain the difference between the standard and deluxe versions of this product?,['Product Inquiry']
+I want to cancel my subscription before the next billing cycle. Please confirm it will not auto-renew.,['Billing Issue']
+"My order confirmation email never arrived, but my credit card was charged. Can you resend the confirmation?","['Billing Issue','Shipping Concern']"
+I'm having trouble verifying my email address because the link says it's invalid. Please help me activate my account.,['Account Access']
+"My shipment was supposed to arrive yesterday, but it's marked as delayed with no estimated delivery date.",['Shipping Concern']
+The instructions included in the box are missing. Can you send me a digital copy?,['Product Inquiry']
+"I requested a refund last week, but I haven't seen any update or credit to my account.",['Refund Request']
+The website is extremely slow and keeps timing out when I try to place an order.,['Technical Problem']
+I can't find any information about whether this product is compatible with international voltage.,['Product Inquiry']
+"I was promised a refund for a defective product, but it still hasn't been processed.","['Refund Request','Service Complaint']"
+The tracking number you provided isn't recognized by the carrier's website.,['Shipping Concern']
+I forgot my password and can't access my account. The recovery questions aren't working.,['Account Access']
+"I paid for next-day shipping, but it looks like it was sent standard instead. Will I get a refund for the shipping cost?","['Billing Issue','Shipping Concern']"
+"I need to update my email address on file, but your system won't save the changes.",['Account Access']
+I have questions about the product specifications before I purchase. Can you provide detailed dimensions?,['Product Inquiry']
+My account was suspended without any explanation. I'd like to understand why and how to reactivate it.,"['Account Access','Service Complaint']"
+"When I try to download my invoice, I get an error message saying the file is unavailable.",['Technical Problem']
+The product I ordered was damaged on arrival. How do I start a return and get a replacement?,"['Shipping Concern','Refund Request']"
+"I applied a gift card at checkout, but the balance wasn't deducted from my total.",['Billing Issue']
+The website keeps logging me out when I try to update my shipping address.,"['Account Access','Technical Problem']"
+I'm still waiting for confirmation of my refund after returning the item two weeks ago.,['Refund Request']
+Your phone support line keeps disconnecting me after a few minutes on hold.,['Service Complaint']
+"The app won't sync my order history, and I need a record for my expenses.","['Technical Problem','Account Access']"
+I received someone else's order along with mine. How do I send it back?,"['Shipping Concern','Service Complaint']"
+"I'm trying to track my shipment, but the status hasn't changed in a week.",['Shipping Concern']
+I ordered two items but only received one. The packing slip shows both were shipped.,['Shipping Concern']
+The payment page gives me an error whenever I try to submit my order.,"['Billing Issue','Technical Problem']"
+"I canceled my subscription last month, but I was still charged this month.","['Billing Issue','Refund Request']"
+The product color is completely different from what was shown online.,"['Product Inquiry','Service Complaint']"
+I can't access the premium features even though my account shows as upgraded.,"['Account Access','Technical Problem']"
+"I need to update my billing info, but the edit option is greyed out.","['Billing Issue','Account Access']"
+"I requested express shipping, but my order is still processing after 3 days.",['Shipping Concern']
+My promo code isn't working even though it's still within the valid dates.,['Billing Issue']
+I placed an order but never received a confirmation email or tracking number.,"['Billing Issue','Shipping Concern']"
+My account has been locked due to too many login attempts. How can I unlock it?,['Account Access']
+"I asked for a refund on a defective product, but I've only received partial credit.",['Refund Request']
+The app keeps showing an error message when I try to view my past orders.,"['Technical Problem','Account Access']"
+I need confirmation that my cancellation request was processed successfully.,['Billing Issue']
+"My package was marked as delivered, but it wasn't on my porch or mailbox.",['Shipping Concern']
+I can't download the installation file for the product I purchased.,['Technical Problem']
+The subscription renewal notice came after the payment was already processed. Can you reverse the charge?,"['Billing Issue','Refund Request']"
+"I ordered the product two weeks ago, and the tracking still shows it's pending shipment. I've also noticed a duplicate charge on my statement. Can someone please assist?","['Shipping Concern', 'Billing Issue']"

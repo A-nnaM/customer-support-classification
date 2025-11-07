@@ -66,7 +66,7 @@ class ModelTrainer:
             loss.backward()
             torch.nn.utils.clip_grad_norm_(self.model.parameters(), 1.0)
             self.optimizer.step()
-            self.scheduer.step()
+            self.scheduler.step()
 
             total_loss += loss.item()
             progress_bar.set_postfix({'loss': loss.item()})
@@ -84,10 +84,10 @@ class ModelTrainer:
             for batch in tqdm(self.val_loader, desc = "validation"):
                 input_ids = batch['input_ids'].to(self.device)
                 attention_mask = batch['attention_mask'].to(self.device)
-                labels = batch['labels'].to(self.devic)
+                labels = batch['labels'].to(self.device)
 
                 logits = self.model(input_ids, attention_mask)
-                loss = self.criterion(logits, label)
+                loss = self.criterion(logits, labels)
                 total_loss += loss.item()
 
 
@@ -135,9 +135,9 @@ class ModelTrainer:
 
 
             # Save best model
-            if val_loss < self.best_val_los:
+            if val_loss < self.best_val_loss:
                 self.best_val_loss = val_loss
-                Path(save_path).parent.mkdir(parent = True, exist_ok = True)
+                Path(save_path).parent.mkdir(parents = True, exist_ok = True)
                 torch.save({
                     'epoch': epoch,
                     'model_state_dict': self.model.state_dict(),
